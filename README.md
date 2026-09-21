@@ -11,7 +11,4 @@ Aprendiendo <b>lo que estés aprendiendo</b></p>
 <img src="https://skillicons.dev/icons?i=html,css,js,astro,react&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<p><b>Mi web</b><br>
-<a href="https://dakak.dev"><img src="https://image.thum.io/get/width/1000/crop/600/https://dakak.dev" width="70%" /></a></p>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=50&section=footer&color=0:7c3aed,100:0d1117" width="100%" />
 </div>
